@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>To Do List</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+  <script src="js/app.js" defer></script>
+  <script src="https://kit.fontawesome.com/a304ffd975.js" crossorigin="anonymous"></script>
+</head>
+<body>
+  <div class="my-day">
+    <p>Meu Dia</p>
+    <span id="date">segunda-feira, 12 de dezembro</span>
+  </div>
+  <div class="to-do-container">
+    <header>
+      <h1>To Do List</h1>
+    </header>
+    <form id="to-do-form">
+      <p>Adicione uma tarefa:</p>
+      <div class="form-control">
+        <input type="text" id="to-do-input" required>
+        <button type="submit" class="to-do-submit"><i class="fa-regular fa-plus"></i></button>
+      </div>
+    </form>
+
+    <form  id="edit-form" class="hidden">
+      <p>Editar tarefa:</p>
+      <div class="form-control">
+        <input type="text" id="edit-input">
+        <button type="submit"><i class="fa-solid fa-pen-to-square"></i></button>
+      </div>
+      <button id="cancel-edit-btn">Cancelar</button>
+    </form>
+
+    <div id="tool-bar"></div>
+    
+    <div id="to-do-list">
+      <div class="to-do done">
+        <h3>Estudar CSS</h3>
+        <button class="finish-to-do"><i class="fa-solid fa-check"></i></button>
+        <button class="edit-to-do"><i class="fa-solid fa-pen-to-square"></i></button>
+        <button class="remove-to-do"><i class="fa-solid fa-trash"></i></button>
+      </div>
+
+      <div class="to-do">
+        <h3>Estudar JavaScript</h3>
+        <button class="finish-to-do"><i class="fa-solid fa-check"></i></button>
+        <button class="edit-to-do"><i class="fa-solid fa-pen-to-square"></i></button>
+        <button class="remove-to-do"><i class="fa-solid fa-trash"></i></button>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
