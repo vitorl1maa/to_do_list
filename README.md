@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="Interactive rating component" src=".github/to-do-list.jpg" width="100%">
+  <img alt="Interactive rating component" src=".github/to-do-list.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -28,4 +28,4 @@ Este projeto é uma "to do list" criada com: HTML, CSS e JavaScript.Foram criada
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://mrstudio-landing-page.vercel.app/).
+Você pode visualizar o layout do projeto através [DESSE LINK](https://to-do-list-ashy-eight.vercel.app/).
