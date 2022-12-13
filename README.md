@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este projeto é uma "to do list" criada com: HTML, CSS e JavaScript.Foram criadas funcionalidades como, adição, edição e remoção de tarefas.
+Este projeto é uma "to do list" criada com: HTML, CSS e JavaScript. Foram criadas funcionalidades como, adição, edição e remoção de tarefas.
 
 ## 🔖 Layout
 
