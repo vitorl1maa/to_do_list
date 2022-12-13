@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="Interactive rating component" src=".github/mrstudio_home.jpg" width="100%">
+  <img alt="Interactive rating component" src=".github/to-do-list.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
